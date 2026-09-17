@@ -1,13 +1,10 @@
 <div align="center">
 
-18 · london · ai + side quests
+18 · london · i build AI systems that ship real code
 
 </div>
 
 ---
-
-i ship open source stuff, mostly around ai, plus whatever side quest has my attention.
-
 #### ⋆ contributions
 
 featured: ★ 11.3k [kornia](https://github.com/kornia/kornia/pull/4628) | ★ 6.3k [glpi](https://github.com/glpi-project/glpi/pull/25544) | ★ 2.6k [oh-my-hermes](https://github.com/rlaope/oh-my-hermes/pull/1601)<br>
