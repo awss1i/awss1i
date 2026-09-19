@@ -1,6 +1,6 @@
 <div align="center">
 
-18 · london · i build AI systems that ship real code
+18 · london · systems-agnostic. orchestrating intelligence.
 
 </div>
 
