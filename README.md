@@ -1,6 +1,6 @@
 <div align="center">
 
-18 · london · systems-agnostic. orchestrating intelligence.
+18 · london · shipping & contributing to open source across the stack
 
 </div>
 
