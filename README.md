@@ -13,7 +13,7 @@ all, sorted by: [most recent](builds/recent.md)
 
 #### ⋆ contributions
 
-featured: ★ 29.0k+ [ente](https://github.com/ente/ente/pull/13069) | ★ 11.3k+ [kornia](https://github.com/kornia/kornia/pull/4628)<br>
+featured: ★ 29.0k+ [ente](https://github.com/ente/ente/pull/13069) | ★ 26.2k+ [UniGetUI](https://github.com/Devolutions/UniGetUI/pull/5416)<br>
 all, sorted by: [most recent](contributions/recent.md) | [repo stars](contributions/stars.md)
 
 #### ⋆ find me

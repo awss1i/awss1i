@@ -9,6 +9,8 @@ contributions
 pull requests to other people's projects, newest first. or sorted by [repo stars](stars.md).
 
 <dl>
+<dt>★ 26.2k+ &nbsp; <a href="https://github.com/Devolutions/UniGetUI">Devolutions/UniGetUI</a> · merged · sep 2026</dt>
+<dd><a href="https://github.com/Devolutions/UniGetUI/pull/5416">#5416</a> · with vcpkg enabled on macos or linux, every start reported git missing with git right on the path and offered a winget command that cannot run there; the check looked for <code>git.exe</code>, which a posix path never has. reproduced with a real vcpkg on fedora, made the check find the platform's git and the install button use the platform's own package manager through the app's elevator, and kept the windows strings byte for byte</dd>
 <dt>★ 29.0k+ &nbsp; <a href="https://github.com/ente/ente">ente/ente</a> · merged · sep 2026</dt>
 <dd><a href="https://github.com/ente/ente/pull/13069">#13069</a> · copying a photo with key material of the wrong length, or not base64 at all, went through and left a billed file in the album that no client could decrypt, the one endpoint missed when its three siblings got the check hours earlier; found it by probing that fix on a live server with postgres and minio, made copy reject the same items with the same 400, and filed the issue and the fix together</dd>
 <dt>★ 11.3k+ &nbsp; <a href="https://github.com/kornia/kornia">kornia/kornia</a> · merged · sep 2026</dt>
