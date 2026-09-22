@@ -9,6 +9,8 @@ contributions
 pull requests to other people's projects, by repo stars. or sorted by [most recent](recent.md).
 
 <dl>
+<dt>★ 29.0k+ &nbsp; <a href="https://github.com/ente/ente">ente/ente</a> · merged · sep 2026</dt>
+<dd><a href="https://github.com/ente/ente/pull/13069">#13069</a> · copying a photo with key material of the wrong length, or not base64 at all, went through and left a billed file in the album that no client could decrypt, the one endpoint missed when its three siblings got the check hours earlier; found it by probing that fix on a live server with postgres and minio, made copy reject the same items with the same 400, and filed the issue and the fix together</dd>
 <dt>★ 11.3k+ &nbsp; <a href="https://github.com/kornia/kornia">kornia/kornia</a> · merged · sep 2026</dt>
 <dd><a href="https://github.com/kornia/kornia/pull/4628">#4628</a> · clahe crashed on every non-square grid; found two spots that indexed one axis with the other axis's tile count, the second hidden behind the first, and checked the fix against an exact per-pixel reference</dd>
 <dt>★ 6.3k+ &nbsp; <a href="https://github.com/glpi-project/glpi">glpi-project/glpi</a> · merged · sep 2026</dt>

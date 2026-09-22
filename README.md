@@ -13,7 +13,7 @@ all, sorted by: [most recent](builds/recent.md)
 
 #### ⋆ contributions
 
-featured: ★ 11.3k+ [kornia](https://github.com/kornia/kornia/pull/4628) | ★ 6.3k+ [glpi](https://github.com/glpi-project/glpi/pull/25544) | ★ 2.8k+ [oh-my-hermes](https://github.com/rlaope/oh-my-hermes/pull/1601)<br>
+featured: ★ 29.0k+ [ente](https://github.com/ente/ente/pull/13069) | ★ 11.3k+ [kornia](https://github.com/kornia/kornia/pull/4628)<br>
 all, sorted by: [most recent](contributions/recent.md) | [repo stars](contributions/stars.md)
 
 #### ⋆ find me
