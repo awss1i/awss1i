@@ -8,7 +8,7 @@
 
 #### ⋆ builds
 
-featured: [assay](https://github.com/awss1i/assay) · find out whether a generated web page actually works<br>
+featured: [assay](https://github.com/awss1i/assay) · find out if a generated web page actually works. no tests written, no LLM<br>
 all, sorted by: [most recent](builds/recent.md)
 
 #### ⋆ contributions
