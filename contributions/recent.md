@@ -9,6 +9,8 @@ contributions
 pull requests to other people's projects, newest first. or sorted by [repo stars](stars.md).
 
 <dl>
+<dt>★ 17.0k+ &nbsp; <a href="https://github.com/termux/termux-packages">termux/termux-packages</a> · merged · sep 2026</dt>
+<dd><a href="https://github.com/termux/termux-packages/pull/31826">#31826</a> · the last two open rows of the go 1.27 build tracker: tgpt had not built since a discordo bump rewrote a patch the two packages shared through a symlink, and nchat failed to link whenever libandroid-execinfo was already in the prefix; reproduced both in the real package builder, gave tgpt its own patch and linked nchat against execinfo, built all four arches</dd>
 <dt>★ 26.2k+ &nbsp; <a href="https://github.com/Devolutions/UniGetUI">Devolutions/UniGetUI</a> · merged · sep 2026</dt>
 <dd><a href="https://github.com/Devolutions/UniGetUI/pull/5416">#5416</a> · with vcpkg enabled on macos or linux, every start reported git missing with git right on the path and offered a winget command that cannot run there; the check looked for <code>git.exe</code>, which a posix path never has. reproduced with a real vcpkg on fedora, made the check find the platform's git and the install button use the platform's own package manager through the app's elevator, and kept the windows strings byte for byte</dd>
 <dt>★ 29.0k+ &nbsp; <a href="https://github.com/ente/ente">ente/ente</a> · merged · sep 2026</dt>
