@@ -13,7 +13,7 @@ all, sorted by: [most recent](builds/recent.md)
 
 #### ⋆ contributions
 
-featured: ★ 29.0k+ [ente](https://github.com/ente/ente/pull/13069) | ★ 26.2k+ [UniGetUI](https://github.com/Devolutions/UniGetUI/pull/5416)<br>
+featured: ★ 49.7k+ [brew](https://github.com/Homebrew/brew/pull/24078) | ★ 29.0k+ [ente](https://github.com/ente/ente/pull/13069)<br>
 all, sorted by: [most recent](contributions/recent.md) | [repo stars](contributions/stars.md)
 
 #### ⋆ find me

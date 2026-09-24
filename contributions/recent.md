@@ -9,6 +9,8 @@ contributions
 pull requests to other people's projects, newest first. or sorted by [repo stars](stars.md).
 
 <dl>
+<dt>★ 49.7k+ &nbsp; <a href="https://github.com/Homebrew/brew">Homebrew/brew</a> · merged · sep 2026</dt>
+<dd><a href="https://github.com/Homebrew/brew/pull/24078">#24078</a> (carried from <a href="https://github.com/Homebrew/brew/pull/24069">#24069</a>) · after package processing moved into sandboxed workers, every bottle install on linux printed the same sandbox warning four times, eight for two bottles, where 7.0.6 printed none; found it by running the new sandboxing on real hosts with and without landlock, made each warning print once per process across the bottle thread pool and the forked children, and it shipped as a shared <code>opoo_once</code></dd>
 <dt>★ 17.0k+ &nbsp; <a href="https://github.com/termux/termux-packages">termux/termux-packages</a> · merged · sep 2026</dt>
 <dd><a href="https://github.com/termux/termux-packages/pull/31826">#31826</a> · the last two open rows of the go 1.27 build tracker: tgpt had not built since a discordo bump rewrote a patch the two packages shared through a symlink, and nchat failed to link whenever libandroid-execinfo was already in the prefix; reproduced both in the real package builder, gave tgpt its own patch and linked nchat against execinfo, built all four arches</dd>
 <dt>★ 26.2k+ &nbsp; <a href="https://github.com/Devolutions/UniGetUI">Devolutions/UniGetUI</a> · merged · sep 2026</dt>

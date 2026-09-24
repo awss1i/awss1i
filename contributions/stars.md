@@ -9,6 +9,8 @@ contributions
 pull requests to other people's projects, by repo stars. or sorted by [most recent](recent.md).
 
 <dl>
+<dt>★ 49.7k+ &nbsp; <a href="https://github.com/Homebrew/brew">Homebrew/brew</a> · merged · sep 2026</dt>
+<dd><a href="https://github.com/Homebrew/brew/pull/24078">#24078</a> (carried from <a href="https://github.com/Homebrew/brew/pull/24069">#24069</a>) · after package processing moved into sandboxed workers, every bottle install on linux printed the same sandbox warning four times, eight for two bottles, where 7.0.6 printed none; found it by running the new sandboxing on real hosts with and without landlock, made each warning print once per process across the bottle thread pool and the forked children, and it shipped as a shared <code>opoo_once</code></dd>
 <dt>★ 29.0k+ &nbsp; <a href="https://github.com/ente/ente">ente/ente</a> · merged · sep 2026</dt>
 <dd><a href="https://github.com/ente/ente/pull/13069">#13069</a> · copying a photo with key material of the wrong length, or not base64 at all, went through and left a billed file in the album that no client could decrypt, the one endpoint missed when its three siblings got the check hours earlier; found it by probing that fix on a live server with postgres and minio, made copy reject the same items with the same 400, and filed the issue and the fix together</dd>
 <dt>★ 26.2k+ &nbsp; <a href="https://github.com/Devolutions/UniGetUI">Devolutions/UniGetUI</a> · merged · sep 2026</dt>
