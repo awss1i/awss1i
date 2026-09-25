@@ -8,7 +8,7 @@
 
 #### ⋆ builds
 
-featured: [assay](https://github.com/awss1i/assay) · find out if your web page actually works. no tests written, no LLM<br>
+featured: [assay](https://github.com/awss1i/assay) · drives your web page in a real browser and tells you what broke. no tests to write, no LLM<br>
 all, sorted by: [most recent](builds/recent.md)
 
 #### ⋆ contributions
